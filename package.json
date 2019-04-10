@@ -1,0 +1,19 @@
+{
+  "name": "douban250",
+  "version": "1.0.0",
+  "description": "get douban movie top 250 infomation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/huangpengdb/douban250"
+  },
+  "keywords": [
+    "node",
+    "request"
+  ],
+  "author": "hp",
+  "license": "ISC"
+}
